@@ -22,7 +22,7 @@ Follow the next steps to test the API:
 
 4.run **npm install**
 
-5.run **jest test.js**
+5.run **npm test test.js**
 
 to use the API, you can simply import API.js from any new javascript file and use the API
 
