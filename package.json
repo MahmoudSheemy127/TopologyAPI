@@ -1,0 +1,14 @@
+{
+  "name": "topolgyapi",
+  "version": "1.0.0",
+  "description": "API for dealing with topologies",
+  "main": "API.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mahmoud Hassan",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^28.1.0"
+  }
+}
