@@ -13,10 +13,15 @@ Whole documentation for the API is inside API.js
 For automatic testing i used JEST framework for testing the API
 
 Follow the next steps to test the API:
+
 1.Clone this repository
+
 2.if Node.js is not installed please install Node.js based on your machine https://nodejs.org/en/download/
+
 3.open your terminal under directory TopologyAPI
+
 4.run **npm install**
+
 5. run **jest test.js**
 
 to use the API, you can simply import API.js from any new javascript file and use the API
